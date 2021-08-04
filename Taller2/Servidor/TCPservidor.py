@@ -1,12 +1,21 @@
+########################################################################
+# IMPORTAR LIBRERIAS ###################################################
+
 from socket import *
 
+
+########################################################################
+# DEFINICION DE METODOS ################################################
+
 def saldo():
+    # Retorna el saldo actual guardado en saldo.txt
     file = open("saldo.txt", 'r')
     sld = file.readlines()[-1]
     file.close()
     return sld
 
 def debitar(X):
+    # Disminuye el saldo guardado en saldo.txt
     file = open("saldo.txt", 'a')
     sld = float(saldo())
     ans = ""
@@ -19,6 +28,7 @@ def debitar(X):
     return ans
 
 def acreditar(Y):
+    # Aumenta el saldo guardado en saldo.txt
     file = open("saldo.txt", 'a')
     sld = float(saldo())
     ans = str(sld + Y) 
@@ -28,22 +38,25 @@ def acreditar(Y):
     return ans
 
 
+########################################################################
+# BLOQUE PRINCIPAL DE INSTRUCCIONES ####################################
+
 servidorPuerto = 12000
 servidorSocket = socket(AF_INET, SOCK_STREAM)
 servidorSocket.bind(('', servidorPuerto))
 servidorSocket.listen(1)
-print("El servidor está listo para recibir mensajes. \n")
+print("\nEl servidor está listo para recibir Consultas. \n")
 
 while(1):
     conexionSocket, clienteDireccion = servidorSocket.accept()
     # print("Conexión establecida con ", clienteDireccion)
     mensaje = str(conexionSocket.recv(1024), "utf-8")
-    print("Mensaje recibido de: ", clienteDireccion)
+    print("Mensaje recibido de " + clienteDireccion[0] +  ": " + mensaje)
     msg = mensaje.split()
-    print(msg)
+    # print(msg)
 
     mensajeRespuesta = ""
-
+    
     if(msg[0] == "saldo"):
         mensajeRespuesta += saldo()
     elif(msg[0] == "debitar"):
