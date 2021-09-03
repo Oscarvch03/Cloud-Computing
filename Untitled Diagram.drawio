@@ -1,35 +1,176 @@
-<mxfile modified="2021-09-03T03:36:10.423Z" host="app.diagrams.net" agent="5.0 (X11)" etag="DezdyVm6ZRV0NuNtS419" version="13.10.6" type="github">
+<mxfile modified="2021-09-03T04:35:36.581Z" host="app.diagrams.net" agent="5.0 (X11)" etag="ceU0M_kpMGegkruOGANR" version="13.10.6" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
-    <mxGraphModel dx="1282" dy="608" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2964" dy="1216" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="vKm5uXgS8-koMIw_AzAA-11" value="&lt;div&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;AWS&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_aws_cloud_alt;strokeColor=#232F3E;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#232F3E;dashed=0;labelBackgroundColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="270" y="90" width="430" height="470" as="geometry" />
+        <mxCell id="vKm5uXgS8-koMIw_AzAA-11" value="&lt;div&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;AWS&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_aws_cloud_alt;strokeColor=#232F3E;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#232F3E;dashed=0;labelBackgroundColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="48" y="77" width="1078" height="1039" as="geometry" />
         </mxCell>
         <mxCell id="UEzPUAAOIrF-is8g5C7q-75" value="&lt;font style=&quot;font-size: 18px&quot;&gt;AZ - us-east-1a&lt;/font&gt;" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_aws_cloud_alt;strokeColor=#232F3E;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#232F3E;dashed=0;labelBackgroundColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="320" y="140" width="320" height="390" as="geometry" />
+          <mxGeometry x="72" y="127" width="320" height="390" as="geometry" />
         </mxCell>
-        <mxCell id="vKm5uXgS8-koMIw_AzAA-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vKm5uXgS8-koMIw_AzAA-1" target="vKm5uXgS8-koMIw_AzAA-3">
+        <mxCell id="vKm5uXgS8-koMIw_AzAA-1" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Clientes&lt;/font&gt;" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3E;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.client;" parent="1" vertex="1">
+          <mxGeometry x="-75" y="562" width="78" height="76" as="geometry" />
+        </mxCell>
+        <mxCell id="vKm5uXgS8-koMIw_AzAA-3" value="" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#D86613;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.instance2;" parent="1" vertex="1">
+          <mxGeometry x="158" y="199" width="148" height="148" as="geometry" />
+        </mxCell>
+        <mxCell id="vKm5uXgS8-koMIw_AzAA-4" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Instancia Ubuntu 20.04&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="212" y="253" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vKm5uXgS8-koMIw_AzAA-8" value="&lt;div&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;Almacenamiento &lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;de 8GB&lt;/font&gt;&lt;/div&gt;" style="outlineConnect=0;fontColor=#232F3E;gradientColor=#60A337;gradientDirection=north;fillColor=#277116;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.storage;" parent="1" vertex="1">
+          <mxGeometry x="112" y="347" width="78" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="vKm5uXgS8-koMIw_AzAA-9" value="&lt;div&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;Apache2 Server&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;Recurso Principal:&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;index1.html&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.webicons.apache;gradientColor=#DFDEDE" parent="1" vertex="1">
+          <mxGeometry x="272" y="347" width="80" height="82.4" as="geometry" />
+        </mxCell>
+        <mxCell id="vKm5uXgS8-koMIw_AzAA-10" value="&lt;font style=&quot;font-size: 18px&quot;&gt;IP Elástica: 23.23.243.250&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="102" y="167" width="260" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iBHWIKw7SDquK3Wt2XqC-2" value="&lt;font style=&quot;font-size: 18px&quot;&gt;AZ - us-east-1b&lt;/font&gt;" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_aws_cloud_alt;strokeColor=#232F3E;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#232F3E;dashed=0;labelBackgroundColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="417" y="127" width="320" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="iBHWIKw7SDquK3Wt2XqC-3" value="" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#D86613;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.instance2;" vertex="1" parent="1">
+          <mxGeometry x="503" y="199" width="148" height="148" as="geometry" />
+        </mxCell>
+        <mxCell id="iBHWIKw7SDquK3Wt2XqC-4" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Instancia Ubuntu 20.04&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="557" y="253" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iBHWIKw7SDquK3Wt2XqC-5" value="&lt;div&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;Almacenamiento &lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;de 8GB&lt;/font&gt;&lt;/div&gt;" style="outlineConnect=0;fontColor=#232F3E;gradientColor=#60A337;gradientDirection=north;fillColor=#277116;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.storage;" vertex="1" parent="1">
+          <mxGeometry x="457" y="347" width="78" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="iBHWIKw7SDquK3Wt2XqC-6" value="&lt;div&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;Apache2 Server&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;Recurso Principal:&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;index2.html&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.webicons.apache;gradientColor=#DFDEDE" vertex="1" parent="1">
+          <mxGeometry x="617" y="347" width="80" height="82.4" as="geometry" />
+        </mxCell>
+        <mxCell id="iBHWIKw7SDquK3Wt2XqC-7" value="&lt;font style=&quot;font-size: 18px&quot;&gt;IP Elástica: 44.198.91.167&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="447" y="167" width="260" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iBHWIKw7SDquK3Wt2XqC-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iBHWIKw7SDquK3Wt2XqC-9" target="vKm5uXgS8-koMIw_AzAA-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vKm5uXgS8-koMIw_AzAA-1" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Clientes&lt;/font&gt;" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3E;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.client;" vertex="1" parent="1">
-          <mxGeometry x="790" y="260" width="78" height="76" as="geometry" />
+        <mxCell id="iBHWIKw7SDquK3Wt2XqC-9" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.application_load_balancer;fillColor=#F58534;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="112" y="564" width="69" height="72" as="geometry" />
         </mxCell>
-        <mxCell id="vKm5uXgS8-koMIw_AzAA-3" value="" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#D86613;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.instance2;" vertex="1" parent="1">
-          <mxGeometry x="406" y="212" width="148" height="148" as="geometry" />
+        <mxCell id="iBHWIKw7SDquK3Wt2XqC-13" value="&lt;font style=&quot;font-size: 18px&quot;&gt;ALB&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="126.5" y="645" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="vKm5uXgS8-koMIw_AzAA-4" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Instancia Ubuntu 20.04&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="460" y="266" width="40" height="40" as="geometry" />
+        <mxCell id="iBHWIKw7SDquK3Wt2XqC-19" value="&lt;font style=&quot;font-size: 18px&quot;&gt;AZ - us-east-1c&lt;/font&gt;" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_aws_cloud_alt;strokeColor=#232F3E;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#232F3E;dashed=0;labelBackgroundColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="768" y="127" width="320" height="390" as="geometry" />
         </mxCell>
-        <mxCell id="vKm5uXgS8-koMIw_AzAA-8" value="&lt;div&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;Almacenamiento &lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;de 8GB&lt;/font&gt;&lt;/div&gt;" style="outlineConnect=0;fontColor=#232F3E;gradientColor=#60A337;gradientDirection=north;fillColor=#277116;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.storage;" vertex="1" parent="1">
-          <mxGeometry x="360" y="360" width="78" height="78" as="geometry" />
+        <mxCell id="iBHWIKw7SDquK3Wt2XqC-20" value="" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#D86613;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.instance2;" vertex="1" parent="1">
+          <mxGeometry x="854" y="199" width="148" height="148" as="geometry" />
         </mxCell>
-        <mxCell id="vKm5uXgS8-koMIw_AzAA-9" value="&lt;div&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;Apache2 Server&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;Recurso Principal:&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;index.html&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.webicons.apache;gradientColor=#DFDEDE" vertex="1" parent="1">
-          <mxGeometry x="520" y="360" width="80" height="82.4" as="geometry" />
+        <mxCell id="iBHWIKw7SDquK3Wt2XqC-21" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Instancia Ubuntu 20.04&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="908" y="253" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="vKm5uXgS8-koMIw_AzAA-10" value="&lt;font style=&quot;font-size: 18px&quot;&gt;IP Elástica: 23.23.243.250&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="350" y="180" width="260" height="20" as="geometry" />
+        <mxCell id="iBHWIKw7SDquK3Wt2XqC-22" value="&lt;div&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;Almacenamiento &lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;de 8GB&lt;/font&gt;&lt;/div&gt;" style="outlineConnect=0;fontColor=#232F3E;gradientColor=#60A337;gradientDirection=north;fillColor=#277116;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.storage;" vertex="1" parent="1">
+          <mxGeometry x="808" y="347" width="78" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="iBHWIKw7SDquK3Wt2XqC-23" value="&lt;div&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;Apache2 Server&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;Recurso Principal:&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;index3.html&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.webicons.apache;gradientColor=#DFDEDE" vertex="1" parent="1">
+          <mxGeometry x="968" y="347" width="80" height="82.4" as="geometry" />
+        </mxCell>
+        <mxCell id="iBHWIKw7SDquK3Wt2XqC-24" value="&lt;font style=&quot;font-size: 18px&quot;&gt;IP Elástica: 54.167.167.94&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="798" y="167" width="260" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iBHWIKw7SDquK3Wt2XqC-37" value="&lt;font style=&quot;font-size: 18px&quot;&gt;AZ - us-east-1a&lt;/font&gt;" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_aws_cloud_alt;strokeColor=#232F3E;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#232F3E;dashed=0;labelBackgroundColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="72" y="711" width="320" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="iBHWIKw7SDquK3Wt2XqC-38" value="" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#D86613;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.instance2;" vertex="1" parent="1">
+          <mxGeometry x="158" y="783" width="148" height="148" as="geometry" />
+        </mxCell>
+        <mxCell id="iBHWIKw7SDquK3Wt2XqC-39" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Instancia Ubuntu 20.04&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="212" y="837" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iBHWIKw7SDquK3Wt2XqC-40" value="&lt;div&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;Almacenamiento &lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;de 8GB&lt;/font&gt;&lt;/div&gt;" style="outlineConnect=0;fontColor=#232F3E;gradientColor=#60A337;gradientDirection=north;fillColor=#277116;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.storage;" vertex="1" parent="1">
+          <mxGeometry x="112" y="931" width="78" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="iBHWIKw7SDquK3Wt2XqC-41" value="&lt;div&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;Apache2 Server&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;Recurso Principal:&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;index1.html&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.webicons.apache;gradientColor=#DFDEDE" vertex="1" parent="1">
+          <mxGeometry x="272" y="931" width="80" height="82.4" as="geometry" />
+        </mxCell>
+        <mxCell id="iBHWIKw7SDquK3Wt2XqC-42" value="&lt;font style=&quot;font-size: 18px&quot;&gt;IP Elástica: -.-.-.-&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="102" y="751" width="260" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iBHWIKw7SDquK3Wt2XqC-43" value="&lt;div&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;AZ - us-east-1b&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_aws_cloud_alt;strokeColor=#232F3E;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#232F3E;dashed=0;labelBackgroundColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="422" y="711" width="320" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="iBHWIKw7SDquK3Wt2XqC-44" value="" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#D86613;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.instance2;" vertex="1" parent="1">
+          <mxGeometry x="508" y="783" width="148" height="148" as="geometry" />
+        </mxCell>
+        <mxCell id="iBHWIKw7SDquK3Wt2XqC-45" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Instancia Ubuntu 20.04&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="562" y="837" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iBHWIKw7SDquK3Wt2XqC-46" value="&lt;div&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;Almacenamiento &lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;de 8GB&lt;/font&gt;&lt;/div&gt;" style="outlineConnect=0;fontColor=#232F3E;gradientColor=#60A337;gradientDirection=north;fillColor=#277116;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.storage;" vertex="1" parent="1">
+          <mxGeometry x="462" y="931" width="78" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="iBHWIKw7SDquK3Wt2XqC-47" value="&lt;div&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;Apache2 Server&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;Recurso Principal:&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;index2.html&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.webicons.apache;gradientColor=#DFDEDE" vertex="1" parent="1">
+          <mxGeometry x="622" y="931" width="80" height="82.4" as="geometry" />
+        </mxCell>
+        <mxCell id="iBHWIKw7SDquK3Wt2XqC-48" value="&lt;font style=&quot;font-size: 18px&quot;&gt;IP Elástica: &lt;/font&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;-.-.-.-&lt;/font&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="452" y="751" width="260" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iBHWIKw7SDquK3Wt2XqC-49" value="&lt;div&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;AZ - us-east-1c&lt;/font&gt;&lt;/div&gt;" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_aws_cloud_alt;strokeColor=#232F3E;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#232F3E;dashed=0;labelBackgroundColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="768" y="711" width="320" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="iBHWIKw7SDquK3Wt2XqC-50" value="" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#D86613;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.instance2;" vertex="1" parent="1">
+          <mxGeometry x="854" y="783" width="148" height="148" as="geometry" />
+        </mxCell>
+        <mxCell id="iBHWIKw7SDquK3Wt2XqC-51" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Instancia Ubuntu 20.04&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="908" y="837" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iBHWIKw7SDquK3Wt2XqC-52" value="&lt;div&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;Almacenamiento &lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;de 8GB&lt;/font&gt;&lt;/div&gt;" style="outlineConnect=0;fontColor=#232F3E;gradientColor=#60A337;gradientDirection=north;fillColor=#277116;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.storage;" vertex="1" parent="1">
+          <mxGeometry x="808" y="931" width="78" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="iBHWIKw7SDquK3Wt2XqC-53" value="&lt;div&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;Apache2 Server&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;Recurso Principal:&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;index3.html&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.webicons.apache;gradientColor=#DFDEDE" vertex="1" parent="1">
+          <mxGeometry x="968" y="931" width="80" height="82.4" as="geometry" />
+        </mxCell>
+        <mxCell id="iBHWIKw7SDquK3Wt2XqC-54" value="&lt;font style=&quot;font-size: 18px&quot;&gt;IP Elástica: &lt;/font&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;-.-.-.-&lt;/font&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="798" y="751" width="260" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iBHWIKw7SDquK3Wt2XqC-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iBHWIKw7SDquK3Wt2XqC-55" target="iBHWIKw7SDquK3Wt2XqC-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iBHWIKw7SDquK3Wt2XqC-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iBHWIKw7SDquK3Wt2XqC-55" target="vKm5uXgS8-koMIw_AzAA-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iBHWIKw7SDquK3Wt2XqC-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iBHWIKw7SDquK3Wt2XqC-55" target="iBHWIKw7SDquK3Wt2XqC-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="754" y="614" />
+              <mxPoint x="754" y="272.9999999999998" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iBHWIKw7SDquK3Wt2XqC-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="iBHWIKw7SDquK3Wt2XqC-55" target="iBHWIKw7SDquK3Wt2XqC-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="577" y="544" />
+              <mxPoint x="146" y="544" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iBHWIKw7SDquK3Wt2XqC-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iBHWIKw7SDquK3Wt2XqC-55" target="iBHWIKw7SDquK3Wt2XqC-38">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="366" y="614" />
+              <mxPoint x="366" y="857" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iBHWIKw7SDquK3Wt2XqC-55" value="" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#D05C17;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.auto_scaling2;" vertex="1" parent="1">
+          <mxGeometry x="538" y="575" width="78" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="iBHWIKw7SDquK3Wt2XqC-77" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/integral/128/arrow_points_arrow-128.png;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="140" y="548" width="141.5" height="141.5" as="geometry" />
+        </mxCell>
+        <mxCell id="iBHWIKw7SDquK3Wt2XqC-78" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/integral/128/arrow_points_arrow-128.png;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="415.5" y="543.25" width="141.5" height="141.5" as="geometry" />
+        </mxCell>
+        <mxCell id="iBHWIKw7SDquK3Wt2XqC-79" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/integral/128/arrow_points_arrow-128.png;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="796" y="543.25" width="141.5" height="141.5" as="geometry" />
+        </mxCell>
+        <mxCell id="iBHWIKw7SDquK3Wt2XqC-80" value="&lt;div&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;ASG&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="595" y="645" width="40" height="16" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
