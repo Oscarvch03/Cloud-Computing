@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-22T14:19:03.718Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0" etag="-E3ACJmFlzR-9wscN1V6" version="22.1.16" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-22T19:17:45.382Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0" etag="QeBvt_WAQ7PlRNPJ2aea" version="22.1.16" type="github">
   <diagram name="Página-1" id="LTTuIcAFy-MnYlZiaRR3">
-    <mxGraphModel dx="1920" dy="470" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2734" dy="890" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -333,7 +333,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="M0xI4ERkT5oVY5zkoMB1-3" value="&lt;div&gt;XSOAR&lt;/div&gt;&lt;div&gt;Telefonica&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="-123" y="2432" width="120" height="60" as="geometry" />
+          <mxGeometry x="660" y="2443" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="M0xI4ERkT5oVY5zkoMB1-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="M0xI4ERkT5oVY5zkoMB1-4" target="M0xI4ERkT5oVY5zkoMB1-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -348,7 +348,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="M0xI4ERkT5oVY5zkoMB1-4" value="Service Manager Ecopetrol" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="193" y="2432" width="120" height="60" as="geometry" />
+          <mxGeometry x="976" y="2443" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="M0xI4ERkT5oVY5zkoMB1-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="M0xI4ERkT5oVY5zkoMB1-6" target="M0xI4ERkT5oVY5zkoMB1-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -357,7 +357,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="M0xI4ERkT5oVY5zkoMB1-6" value="Se realizan operaciones sobre los Tickets" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="44" y="2447" width="104" height="30" as="geometry" />
+          <mxGeometry x="827" y="2458" width="104" height="30" as="geometry" />
         </mxCell>
         <mxCell id="M0xI4ERkT5oVY5zkoMB1-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="M0xI4ERkT5oVY5zkoMB1-8" target="M0xI4ERkT5oVY5zkoMB1-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -369,7 +369,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="M0xI4ERkT5oVY5zkoMB1-8" value="&lt;div&gt;&lt;b&gt;Creación:&amp;nbsp;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Se crean los Tickets con la información relevante de las Alertas.&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="423" y="2162" width="164" height="88" as="geometry" />
+          <mxGeometry x="1206" y="2173" width="164" height="88" as="geometry" />
         </mxCell>
         <mxCell id="M0xI4ERkT5oVY5zkoMB1-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="M0xI4ERkT5oVY5zkoMB1-9" target="M0xI4ERkT5oVY5zkoMB1-36" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -378,7 +378,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="M0xI4ERkT5oVY5zkoMB1-9" value="&lt;div&gt;&lt;b&gt;Actualización:&amp;nbsp;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Se actualizan los Tickets, principalmente para asignar el Grupo Resolutor y generar un cambio de estado en el mismo (Asignado o Resuelto).&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="424" y="2407.25" width="253" height="109.5" as="geometry" />
+          <mxGeometry x="1207" y="2418.25" width="253" height="109.5" as="geometry" />
         </mxCell>
         <mxCell id="M0xI4ERkT5oVY5zkoMB1-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="M0xI4ERkT5oVY5zkoMB1-56" target="M0xI4ERkT5oVY5zkoMB1-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -393,40 +393,40 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="M0xI4ERkT5oVY5zkoMB1-10" value="&lt;div&gt;&lt;b&gt;Consulta:&amp;nbsp;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Se consultan los Tickets con el fin de actualizar las respectivas Alertas en el SIEM, principalmente el comentario de resolución, cuando estos cambian a estado Resuelto o Cerrado.&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="421" y="2671" width="215" height="140" as="geometry" />
+          <mxGeometry x="1204" y="2682" width="215" height="140" as="geometry" />
         </mxCell>
         <mxCell id="M0xI4ERkT5oVY5zkoMB1-15" value="Incidentes IM" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF0000;" parent="1" vertex="1">
-          <mxGeometry x="727" y="2101" width="120" height="60" as="geometry" />
+          <mxGeometry x="1510" y="2112" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="M0xI4ERkT5oVY5zkoMB1-26" value="Incidentes IM" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF0000;" parent="1" vertex="1">
-          <mxGeometry x="718" y="2637" width="120" height="60" as="geometry" />
+          <mxGeometry x="1501" y="2648" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="M0xI4ERkT5oVY5zkoMB1-27" value="Requerimientos/Peticiones RF" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#994C00;" parent="1" vertex="1">
-          <mxGeometry x="718" y="2711" width="187" height="60" as="geometry" />
+          <mxGeometry x="1501" y="2722" width="187" height="60" as="geometry" />
         </mxCell>
         <mxCell id="M0xI4ERkT5oVY5zkoMB1-28" value="Interacciones SD" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#666600;" parent="1" vertex="1">
-          <mxGeometry x="717" y="2783" width="120" height="60" as="geometry" />
+          <mxGeometry x="1500" y="2794" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="M0xI4ERkT5oVY5zkoMB1-36" value="Incidentes IM" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF0000;" parent="1" vertex="1">
-          <mxGeometry x="725" y="2354" width="120" height="60" as="geometry" />
+          <mxGeometry x="1508" y="2365" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="M0xI4ERkT5oVY5zkoMB1-40" value="SIEM" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#00994D;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="-123" y="2675" width="120" height="60" as="geometry" />
+          <mxGeometry x="660" y="2686" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="M0xI4ERkT5oVY5zkoMB1-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="M0xI4ERkT5oVY5zkoMB1-44" target="M0xI4ERkT5oVY5zkoMB1-40" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="M0xI4ERkT5oVY5zkoMB1-44" value="Se actualizan las Alertas con Información Relevante de los Tickets respectivos." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-139" y="2543" width="152" height="81" as="geometry" />
+          <mxGeometry x="644" y="2554" width="152" height="81" as="geometry" />
         </mxCell>
         <mxCell id="M0xI4ERkT5oVY5zkoMB1-55" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;1&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FF66FF;" parent="1" vertex="1">
-          <mxGeometry x="76" y="2395" width="37" height="37" as="geometry" />
+          <mxGeometry x="859" y="2406" width="37" height="37" as="geometry" />
         </mxCell>
         <mxCell id="M0xI4ERkT5oVY5zkoMB1-56" value="2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FF66FF;" parent="1" vertex="1">
-          <mxGeometry x="350" y="2443.5" width="37" height="37" as="geometry" />
+          <mxGeometry x="1133" y="2454.5" width="37" height="37" as="geometry" />
         </mxCell>
         <mxCell id="M0xI4ERkT5oVY5zkoMB1-65" value="3" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FF66FF;" parent="1" vertex="1">
-          <mxGeometry x="-185" y="2566" width="37" height="37" as="geometry" />
+          <mxGeometry x="598" y="2577" width="37" height="37" as="geometry" />
         </mxCell>
         <mxCell id="4BBlZ1DTn3_0svN0pKE7-1" value="" style="swimlane;whiteSpace=wrap;html=1;startSize=60;" parent="1" vertex="1">
           <mxGeometry x="412" y="2937" width="654" height="560" as="geometry" />
@@ -507,16 +507,16 @@
           <mxGeometry x="-8" y="3497" width="1074" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OyF-gBoc7sIpXqrRIdVy-1" value="Requerimientos/Peticiones RF" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#994C00;" vertex="1" parent="1">
-          <mxGeometry x="724" y="2432" width="187" height="60" as="geometry" />
+          <mxGeometry x="1507" y="2443" width="187" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OyF-gBoc7sIpXqrRIdVy-2" value="Interacciones SD" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#666600;" vertex="1" parent="1">
-          <mxGeometry x="726" y="2508" width="120" height="60" as="geometry" />
+          <mxGeometry x="1509" y="2519" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OyF-gBoc7sIpXqrRIdVy-3" value="Requerimientos/Peticiones RF" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#994C00;" vertex="1" parent="1">
-          <mxGeometry x="727" y="2176" width="187" height="60" as="geometry" />
+          <mxGeometry x="1510" y="2187" width="187" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OyF-gBoc7sIpXqrRIdVy-4" value="Interacciones SD" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#666600;" vertex="1" parent="1">
-          <mxGeometry x="727" y="2251" width="120" height="60" as="geometry" />
+          <mxGeometry x="1510" y="2262" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OyF-gBoc7sIpXqrRIdVy-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.008;entryY=0.633;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="M0xI4ERkT5oVY5zkoMB1-9" target="OyF-gBoc7sIpXqrRIdVy-2">
           <mxGeometry relative="1" as="geometry" />
@@ -561,6 +561,9 @@
           <mxGeometry x="-0.18" y="4" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="OyF-gBoc7sIpXqrRIdVy-125" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OyF-gBoc7sIpXqrRIdVy-70" target="OyF-gBoc7sIpXqrRIdVy-123">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OyF-gBoc7sIpXqrRIdVy-70" value="XSOAR" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="-291" y="2146" width="120" height="60" as="geometry" />
@@ -616,6 +619,83 @@
         </mxCell>
         <mxCell id="OyF-gBoc7sIpXqrRIdVy-81" value="6" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="-368" y="2059" width="23" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="OyF-gBoc7sIpXqrRIdVy-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OyF-gBoc7sIpXqrRIdVy-84" target="OyF-gBoc7sIpXqrRIdVy-92">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OyF-gBoc7sIpXqrRIdVy-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OyF-gBoc7sIpXqrRIdVy-84" target="OyF-gBoc7sIpXqrRIdVy-112">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OyF-gBoc7sIpXqrRIdVy-84" value="&lt;div&gt;XSOAR&lt;/div&gt;&lt;div&gt;Telefonica&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1960" y="2493" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OyF-gBoc7sIpXqrRIdVy-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OyF-gBoc7sIpXqrRIdVy-89" target="OyF-gBoc7sIpXqrRIdVy-92">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OyF-gBoc7sIpXqrRIdVy-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OyF-gBoc7sIpXqrRIdVy-89" target="OyF-gBoc7sIpXqrRIdVy-96">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OyF-gBoc7sIpXqrRIdVy-89" value="Service Manager Ecopetrol" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="2276" y="2493" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OyF-gBoc7sIpXqrRIdVy-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OyF-gBoc7sIpXqrRIdVy-92" target="OyF-gBoc7sIpXqrRIdVy-89">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OyF-gBoc7sIpXqrRIdVy-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OyF-gBoc7sIpXqrRIdVy-92" target="OyF-gBoc7sIpXqrRIdVy-84">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OyF-gBoc7sIpXqrRIdVy-92" value="Se realizan operaciones sobre los Tickets" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2127" y="2508" width="104" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OyF-gBoc7sIpXqrRIdVy-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OyF-gBoc7sIpXqrRIdVy-96" target="OyF-gBoc7sIpXqrRIdVy-105">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OyF-gBoc7sIpXqrRIdVy-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OyF-gBoc7sIpXqrRIdVy-96" target="OyF-gBoc7sIpXqrRIdVy-118">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OyF-gBoc7sIpXqrRIdVy-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OyF-gBoc7sIpXqrRIdVy-96" target="OyF-gBoc7sIpXqrRIdVy-119">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OyF-gBoc7sIpXqrRIdVy-96" value="&lt;div&gt;&lt;b&gt;Creación:&amp;nbsp;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Se crean los Tickets con la información relevante de las Alertas.&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2493" y="2480" width="164" height="88" as="geometry" />
+        </mxCell>
+        <mxCell id="OyF-gBoc7sIpXqrRIdVy-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="OyF-gBoc7sIpXqrRIdVy-89">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2433" y="2523.0000000000005" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OyF-gBoc7sIpXqrRIdVy-105" value="Incidentes IM" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="2747" y="2419" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OyF-gBoc7sIpXqrRIdVy-110" value="SIEM" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#00994D;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1960" y="2736" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OyF-gBoc7sIpXqrRIdVy-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OyF-gBoc7sIpXqrRIdVy-112" target="OyF-gBoc7sIpXqrRIdVy-110">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OyF-gBoc7sIpXqrRIdVy-112" value="Se actualizan las Alertas con Información Relevante de los Tickets respectivos." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1944" y="2604" width="152" height="81" as="geometry" />
+        </mxCell>
+        <mxCell id="OyF-gBoc7sIpXqrRIdVy-113" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;1&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FF66FF;" vertex="1" parent="1">
+          <mxGeometry x="2159" y="2456" width="37" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="OyF-gBoc7sIpXqrRIdVy-115" value="3" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FF66FF;" vertex="1" parent="1">
+          <mxGeometry x="1898" y="2627" width="37" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="OyF-gBoc7sIpXqrRIdVy-118" value="Requerimientos/Peticiones RF" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#994C00;" vertex="1" parent="1">
+          <mxGeometry x="2747" y="2494" width="187" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OyF-gBoc7sIpXqrRIdVy-119" value="Interacciones SD" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#666600;" vertex="1" parent="1">
+          <mxGeometry x="2747" y="2569" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OyF-gBoc7sIpXqrRIdVy-127" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OyF-gBoc7sIpXqrRIdVy-123" target="OyF-gBoc7sIpXqrRIdVy-126">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OyF-gBoc7sIpXqrRIdVy-123" value="Se realizan operaciones sobre los Tickets" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-527" y="2161" width="104" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OyF-gBoc7sIpXqrRIdVy-126" value="Service Manager Ecopetrol" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-720" y="2146" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
